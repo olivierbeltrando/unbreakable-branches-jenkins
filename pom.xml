@@ -65,7 +65,7 @@
 
     <properties>
         <!-- Baseline Jenkins version you use to build the plugin. Users must have this version or newer to run. -->
-        <jenkins.version>2.136</jenkins.version>
+        <jenkins.version>2.121</jenkins.version>
         <java.level>8</java.level>
         <workflow.aggregator.version>2.5</workflow.aggregator.version>
         <httpclient.version>4.5.5-2.1</httpclient.version>
